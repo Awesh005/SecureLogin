@@ -30,7 +30,7 @@ A simple and secure login & registration web app built using **Firebase Authenti
 
 | Registration Page | Login Page |
 |-------------------|------------|
-| ![Register](screenshots/register.png) | ![Login](screenshots/login.png) |
+| ![Register](screenshot/register.png) | ![Login](screenshot/login.png) |
 
 📌 *Add your own screenshots by placing them in a `/screenshots` folder in the root of the project.*
 
